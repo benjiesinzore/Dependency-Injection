@@ -11,7 +11,7 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("4e1fb7a1-2e34-41f6-9ee3-56a73e7a5b32")]
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("f513a96c-0deb-4dd9-be93-9f6db3cf346b")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("GeneratePDF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
